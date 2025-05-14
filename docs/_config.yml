@@ -1,6 +1,6 @@
 title: M8-TW-ULTRA API Documentation
 description: API Documentation for the M8-TW-ULTRA controller.
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 
 collections:
   docs:
