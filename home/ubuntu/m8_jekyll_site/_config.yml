@@ -1,0 +1,22 @@
+title: M8-TW-ULTRA API Documentation
+description: API Documentation for the M8-TW-ULTRA controller.
+theme: minima
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+header_pages:
+  - index.md
+  - docs/01-introduction.md
+  - docs/02-getting-started.md
+  - docs/03-serial-command-interface.md
+  - docs/04-rest-api-reference.md
+  - docs/05-key-concepts-and-features.md
+  - docs/06-keypad-and-io-configuration.md
+  - docs/07-integration-guides.md
+  - docs/08-troubleshooting.md
+
+
+
